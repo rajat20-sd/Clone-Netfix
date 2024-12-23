@@ -8,14 +8,18 @@ In this project, I have replicated the overall structure and look of the Netflix
 
 - A responsive homepage layout similar to Netflix's UI
 - Navigation bar with logos, menu items, and user profile
-- Movie sliders with placeholder images (you can add real content)
+- Movie sliders with placeholder images
 - Background effects similar to Netflix’s hero section
 - Clean and modern CSS styling with a focus on layout and responsiveness
 - Mobile-friendly design with media queries for different screen sizes
 
 ## Screenshots
+![Screenshot from 2024-12-24 01-06-24](https://github.com/user-attachments/assets/cd260988-08a4-4a5d-b7bb-4fca2ebc9c37)
 
-(Include a screenshot or two of your project here)
+
+
+
+
 
 ## Technologies Used
 
@@ -28,4 +32,4 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-ui-clone.git
+   git clone 
