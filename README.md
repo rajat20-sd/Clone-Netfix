@@ -35,4 +35,4 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/rajat20-sd/Clone-Netfix
