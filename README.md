@@ -1,5 +1,5 @@
 # Netflix UI Clone
-
+### live : https://clone-netfix-u6vw.vercel.app/
 This is a fun project where I have cloned the user interface of Netflix using HTML and CSS. The goal of this project was to practice my front-end development skills, specifically focusing on creating layouts and applying CSS styling techniques. 
 
 In this project, I have replicated the overall structure and look of the Netflix homepage, including the header, navigation bar, and the content sections such as the movie sliders and background images. The project does not include any dynamic or backend features like Netflix's streaming functionality. Instead, it is a static clone purely made with HTML and CSS.
